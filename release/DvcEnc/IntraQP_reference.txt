@@ -1,0 +1,8 @@
+Quantization Parameters of Intra Block in WZ frames for
+the Various RD points for QCIF@15Hz
+
+              Q1  Q2  Q3  Q4  Q5  Q6  Q7  Q8
+Foreman       39  38  37  33  33  31  28  24
+Hall Monitor  36  35  35  32  32  30  28  23
+Coast Guard   37  36  36  33  32  30  29  25
+Soccer        41  40  40  35  35  33  30  24

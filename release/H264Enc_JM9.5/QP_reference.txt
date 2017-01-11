@@ -1,0 +1,8 @@
+Table 8.1 Key Frames Quantization Parameters for
+the Various RD points for QCIF@15Hz
+
+              Q1  Q2  Q3  Q4  Q5  Q6  Q7  Q8
+Foreman       40  39  38  34  34  32  29  25
+Hall Monitor  37  36  36  33  33  31  29  24
+Coast Guard   38  37  37  34  33  31  30  26
+Soccer        44  43  41  36  36  34  31  25
