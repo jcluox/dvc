@@ -2,7 +2,9 @@ README:
 -------
 description:
 NTU-DVC-codec developed by 
+
 NTU/CSIE/CMLAB/DSP/Han-ping Cheng
+
 NTU/CSIE/CMLAB/DSP/Tse-Chung Su
 
 contact:
