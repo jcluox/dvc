@@ -1,3 +1,6 @@
+Performance data (image size : CIF)
+https://docs.google.com/spreadsheets/d/11o7_1O6zvrTKp8ERso7tzN745ygOmqBRkAzZO0IyW7c/edit?usp=sharing
+
 README:
 -------
 description:
