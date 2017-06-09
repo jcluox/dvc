@@ -14,6 +14,7 @@ contact:
 plokm@cmlab.csie.ntu.edu.tw
 jsrf@cmlab.csie.ntu.edu.tw
 
+contact2: lymanblue@gmail.com jcluox@gmail.com
 ------------------------------------------------------------
 
 
